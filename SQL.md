@@ -45,4 +45,26 @@ https://www.cnblogs.com/kismetv/p/10787228.html
 - 加鎖期間其它事務能對A 加S 鎖，但是不能加X 鎖
 
 ## FOR UPATE:
+pass
 
+
+
+## SQLite
+1. pd.read_csv超快 甚至比read_sql快很多
+2. sqlite的優勢是select, 當資料越來越多時，pandas的做法是先進來後用loc或filter再去篩
+3. 當未來資料越來越多時，一定需要**select的功能，不可能把全部的csv to df放進memory，很容易爆掉**
+4. csv雖然可以分檔，但是要畫長時間圖時，只有sql才有辦法做到這件事情
+![](https://i.imgur.com/zTBMs1D.png)
+
+5. MYSQL是基於服務器，SQLite則是無服務器 輕量
+6. SQLite不可以同時寫入(保持單線程
+
+
+
+## ORM(Object Relational Mapping)
+- 優點
+1. 基本上就是物件導向的語法，開發快
+2. 可以接任何接口(高階API)，方便轉移
+3. 防止SQL注入攻擊
+- 缺點
+1. 不是原生 效能差 可自訂少 複雜的還是要自己寫

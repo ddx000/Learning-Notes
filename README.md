@@ -30,5 +30,5 @@
 - [Linux 指令](https://github.com/ddx000/Learning-Notes/blob/master/Linux%20bash.md)
 - [Linode Linux Deploy](https://github.com/ddx000/Learning-Notes/blob/master/Linux%20Deploy.md)
 
-# 其他開發隨手筆記
-- [Medium](https://medium.com/@jimmy_huang)
+# 開發心得與筆記
+- [Medium@jimmy_huang](https://medium.com/@jimmy_huang)

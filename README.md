@@ -1,6 +1,6 @@
-以下為我在學習路程上做的一些筆記，有些地方可能不是寫得很完整或過度簡化，還請見諒
-The following are some notes I made on the learning journey, some places may not be very complete or oversimplified.  
-All notes have been written in traditional Chinese and can be forwarded and used freely  
+以下為我在學習路程上做的一些筆記，有些地方可能不是寫得很完整或過度簡化，還請見諒  
+The following are some notes I made on the learning journey, some places may not be very complete or oversimplified.   
+All notes have been written in traditional Chinese and can be forwarded and used freely   
 
 # Computer Networks
 - Related course: 清華大學 黃能富教授 [link](http://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=13&)

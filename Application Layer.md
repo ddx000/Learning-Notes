@@ -41,13 +41,11 @@ RPC協議假定某些傳輸協議的存在，如TCP或UDP，為通信程序之�
 在OSI網絡通信模型中，RPC跨越了傳輸層和應用層。
 一個完整的RPC架構裡麵包含了四個核心的組件，分別是Client ,Server,Client Stub以及Server Stub，
 ![](https://i.imgur.com/HhNM0Cd.png)
-客戶端(Client)：服務調用方。
-客戶端存根(Client Stub)：存放服務端地址信息，將客戶端的請求參數數據信息打包成網絡消息，再通過網絡傳輸發送給服務端。
-服務端存根(Server Stub)：接收客戶端發送過來的請求消息並進行解包，然後再調用本地服務進行處理。
-服務端(Server)：服務的真正提供者。
-Network Service：底層傳輸，可以是TCP 或HTTP。
-![](https://i.imgur.com/RdiHHft.png)
-gRPC是Google最近公佈的開源軟件
+客戶端(Client)：服務調用方。  
+客戶端存根(Client Stub)：存放服務端地址信息，將客戶端的請求參數數據信息打包成網絡消息，再通過網絡傳輸發送給服務端。  
+服務端存根(Server Stub)：接收客戶端發送過來的請求消息並進行解包，然後再調用本地服務進行處理。  
+服務端(Server)：服務的真正提供者。  
+Network Service：底層傳輸，可以是TCP 或HTTP。  
 
 ## 冪等 Idempotence
 HTTP方法的冪等性是指一次和多次請求某一個資源應該具有同樣的副作用

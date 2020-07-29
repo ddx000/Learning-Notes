@@ -1,10 +1,10 @@
 # Computer Science Notes
 
-說明: 
-以下為我在工作上與自我進修時做的一些筆記，
-確保自己真的吸收了解這些知識，並方便以後複習使用
-雖然現在有些比較簡化，之後的目標是盡量淺顯易懂，讓初學者也能明瞭
-學海無涯勤是岸，共勉之，歡迎轉載與一起編輯!
+說明:   
+以下為我在工作上與自我進修時做的一些筆記，  
+確保自己真的吸收了解這些知識，並方便以後複習使用  
+雖然現在有些比較簡化，之後的目標是盡量淺顯易懂，讓初學者也能明瞭  
+學海無涯勤是岸，共勉之，歡迎轉載與一起編輯!  
 
 The following are some notes I made on the learning journey, some places may not be very complete or oversimplified.   
 All notes have been written in traditional Chinese and can be forwarded and used freely   
@@ -25,19 +25,19 @@ All notes have been written in traditional Chinese and can be forwarded and used
 - [Leetcode 30 days Challenge](https://github.com/ddx000/30-Day-LeetCoding-Challenge/blob/master/Readme.md)
 - [Leetcode Profile](https://leetcode.com/ddx000/)
 
-# Database System
+# Database System  
 - [SQL](https://github.com/ddx000/Learning-Notes/blob/master/SQL.md)
 - [Spark](https://github.com/ddx000/Learning-Notes/blob/master/Spark.md)
 - [Redis](https://github.com/ddx000/Learning-Notes/blob/master/redis.md)
 
-# Python & Machine Learning
+# Python & Machine Learning  
 - [Python detail](https://github.com/ddx000/Learning-Notes/blob/master/Python.md)
 - [Django Framework](https://github.com/ddx000/Django-Blog/blob/master/README.md)
 - [asyncio](https://github.com/ddx000/Learning-Notes/blob/master/async.md)
 - [2nd Machine Learning Marathon - Build model snippnet, ipynb](https://github.com/ddx000/Machine-Learning-Challenge/blob/master/Machine%20Learning%20Notes.ipynb)
 - [Kaggle ASHRAE, ipynb](https://github.com/ddx000/Kaggle_Kernel/blob/master/Kaggle_ASHRAE.ipynb)
 
-# Other Knowledge
+# Other Knowledge  
 - [Web Security](https://github.com/ddx000/Learning-Notes/blob/master/web-security.md)
 - [Design Pattern](https://github.com/ddx000/Learning-Notes/blob/master/Design-pattern.md)
 

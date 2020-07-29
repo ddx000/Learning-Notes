@@ -30,15 +30,21 @@ All notes have been written in traditional Chinese and can be forwarded and used
 - [Spark](https://github.com/ddx000/Learning-Notes/blob/master/Spark.md)
 - [Redis](https://github.com/ddx000/Learning-Notes/blob/master/redis.md)
 
-# Python & Machine Learning  
-- [Python detail](https://github.com/ddx000/Learning-Notes/blob/master/Python.md)
-- [Django Framework](https://github.com/ddx000/Django-Blog/blob/master/README.md)
-- [asyncio](https://github.com/ddx000/Learning-Notes/blob/master/async.md)
+# Web 
+- [Web server](https://github.com/ddx000/Learning-Notes/blob/master/Web-Server.md)  
+- [Django Blog](https://github.com/ddx000/django_blog)  
+- [Flask](https://github.com/ddx000/Learning-Notes/blob/master/flask.md)  
+- [Web Security](https://github.com/ddx000/Learning-Notes/blob/master/web-security.md)  
+- [asyncio](https://github.com/ddx000/Learning-Notes/blob/master/async.md)  
+
+# Machine Learning / Deep Learning
 - [2nd Machine Learning Marathon - Build model snippnet, ipynb](https://github.com/ddx000/Machine-Learning-Challenge/blob/master/Machine%20Learning%20Notes.ipynb)
 - [Kaggle ASHRAE, ipynb](https://github.com/ddx000/Kaggle_Kernel/blob/master/Kaggle_ASHRAE.ipynb)
+- [Kmeans& Silhouette](https://medium.com/@jimmy_huang/kmeans%E5%88%86%E7%BE%A4%E6%BC%94%E7%AE%97%E6%B3%95-%E8%88%87-silhouette-%E8%BC%AA%E5%BB%93%E5%88%86%E6%9E%90-8be17e634589)
+- [PCA](https://medium.com/@jimmy_huang/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E9%99%8D%E7%B6%AD-pca%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90-9cc4ebcceb6)
 
 # Other Knowledge  
-- [Web Security](https://github.com/ddx000/Learning-Notes/blob/master/web-security.md)
+- [Python detail](https://github.com/ddx000/Learning-Notes/blob/master/Python.md)
 - [Design Pattern](https://github.com/ddx000/Learning-Notes/blob/master/Design-pattern.md)
 
 # Tool
